@@ -1,2 +1,2 @@
 # Time-series-analysis
-Developed this project for time series analysis of stock.csv data
+Developed this project for time series analysis of stock_data.csv data
